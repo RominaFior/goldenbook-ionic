@@ -1,0 +1,8 @@
+{
+  "name": "goldenbook-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "30764997"
+}
